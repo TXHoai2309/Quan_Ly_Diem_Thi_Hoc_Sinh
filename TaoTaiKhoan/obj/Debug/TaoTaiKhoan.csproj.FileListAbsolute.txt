@@ -1,0 +1,10 @@
+D:\LTHSK\Bài Tập Lớn\TaoTaiKhoan\bin\Debug\TaoTaiKhoan.exe.config
+D:\LTHSK\Bài Tập Lớn\TaoTaiKhoan\bin\Debug\TaoTaiKhoan.exe
+D:\LTHSK\Bài Tập Lớn\TaoTaiKhoan\bin\Debug\TaoTaiKhoan.pdb
+D:\LTHSK\Bài Tập Lớn\TaoTaiKhoan\obj\Debug\TaoTaiKhoan.csproj.AssemblyReference.cache
+D:\LTHSK\Bài Tập Lớn\TaoTaiKhoan\obj\Debug\TaoTaiKhoan.FormTaoTaiKhoan.resources
+D:\LTHSK\Bài Tập Lớn\TaoTaiKhoan\obj\Debug\TaoTaiKhoan.Properties.Resources.resources
+D:\LTHSK\Bài Tập Lớn\TaoTaiKhoan\obj\Debug\TaoTaiKhoan.csproj.GenerateResource.cache
+D:\LTHSK\Bài Tập Lớn\TaoTaiKhoan\obj\Debug\TaoTaiKhoan.csproj.CoreCompileInputs.cache
+D:\LTHSK\Bài Tập Lớn\TaoTaiKhoan\obj\Debug\TaoTaiKhoan.exe
+D:\LTHSK\Bài Tập Lớn\TaoTaiKhoan\obj\Debug\TaoTaiKhoan.pdb

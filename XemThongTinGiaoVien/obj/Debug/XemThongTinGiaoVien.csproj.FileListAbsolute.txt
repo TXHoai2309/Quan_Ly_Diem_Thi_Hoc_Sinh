@@ -1,0 +1,10 @@
+D:\LTHSK\Bài Tập Lớn\XemThongTinGiaoVien\bin\Debug\XemThongTinGiaoVien.exe.config
+D:\LTHSK\Bài Tập Lớn\XemThongTinGiaoVien\bin\Debug\XemThongTinGiaoVien.exe
+D:\LTHSK\Bài Tập Lớn\XemThongTinGiaoVien\bin\Debug\XemThongTinGiaoVien.pdb
+D:\LTHSK\Bài Tập Lớn\XemThongTinGiaoVien\obj\Debug\XemThongTinGiaoVien.csproj.AssemblyReference.cache
+D:\LTHSK\Bài Tập Lớn\XemThongTinGiaoVien\obj\Debug\XemThongTinGiaoVien.FormXemThongTinGiaoVien.resources
+D:\LTHSK\Bài Tập Lớn\XemThongTinGiaoVien\obj\Debug\XemThongTinGiaoVien.Properties.Resources.resources
+D:\LTHSK\Bài Tập Lớn\XemThongTinGiaoVien\obj\Debug\XemThongTinGiaoVien.csproj.GenerateResource.cache
+D:\LTHSK\Bài Tập Lớn\XemThongTinGiaoVien\obj\Debug\XemThongTinGiaoVien.csproj.CoreCompileInputs.cache
+D:\LTHSK\Bài Tập Lớn\XemThongTinGiaoVien\obj\Debug\XemThongTinGiaoVien.exe
+D:\LTHSK\Bài Tập Lớn\XemThongTinGiaoVien\obj\Debug\XemThongTinGiaoVien.pdb

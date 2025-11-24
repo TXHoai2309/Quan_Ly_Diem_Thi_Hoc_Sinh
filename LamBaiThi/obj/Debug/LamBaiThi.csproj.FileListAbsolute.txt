@@ -1,0 +1,10 @@
+D:\LTHSK\Bài Tập Lớn\LamBaiThi\bin\Debug\LamBaiThi.exe.config
+D:\LTHSK\Bài Tập Lớn\LamBaiThi\bin\Debug\LamBaiThi.exe
+D:\LTHSK\Bài Tập Lớn\LamBaiThi\bin\Debug\LamBaiThi.pdb
+D:\LTHSK\Bài Tập Lớn\LamBaiThi\obj\Debug\LamBaiThi.csproj.AssemblyReference.cache
+D:\LTHSK\Bài Tập Lớn\LamBaiThi\obj\Debug\LamBaiThi.FormLamBaiThi.resources
+D:\LTHSK\Bài Tập Lớn\LamBaiThi\obj\Debug\LamBaiThi.Properties.Resources.resources
+D:\LTHSK\Bài Tập Lớn\LamBaiThi\obj\Debug\LamBaiThi.csproj.GenerateResource.cache
+D:\LTHSK\Bài Tập Lớn\LamBaiThi\obj\Debug\LamBaiThi.csproj.CoreCompileInputs.cache
+D:\LTHSK\Bài Tập Lớn\LamBaiThi\obj\Debug\LamBaiThi.exe
+D:\LTHSK\Bài Tập Lớn\LamBaiThi\obj\Debug\LamBaiThi.pdb

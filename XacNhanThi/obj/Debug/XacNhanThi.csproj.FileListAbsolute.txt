@@ -1,0 +1,10 @@
+D:\LTHSK\Bài Tập Lớn\XacNhanThi\bin\Debug\XacNhanThi.exe.config
+D:\LTHSK\Bài Tập Lớn\XacNhanThi\bin\Debug\XacNhanThi.exe
+D:\LTHSK\Bài Tập Lớn\XacNhanThi\bin\Debug\XacNhanThi.pdb
+D:\LTHSK\Bài Tập Lớn\XacNhanThi\obj\Debug\XacNhanThi.csproj.AssemblyReference.cache
+D:\LTHSK\Bài Tập Lớn\XacNhanThi\obj\Debug\XacNhanThi.FormXacNhanThi.resources
+D:\LTHSK\Bài Tập Lớn\XacNhanThi\obj\Debug\XacNhanThi.Properties.Resources.resources
+D:\LTHSK\Bài Tập Lớn\XacNhanThi\obj\Debug\XacNhanThi.csproj.GenerateResource.cache
+D:\LTHSK\Bài Tập Lớn\XacNhanThi\obj\Debug\XacNhanThi.csproj.CoreCompileInputs.cache
+D:\LTHSK\Bài Tập Lớn\XacNhanThi\obj\Debug\XacNhanThi.exe
+D:\LTHSK\Bài Tập Lớn\XacNhanThi\obj\Debug\XacNhanThi.pdb

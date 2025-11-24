@@ -1,0 +1,10 @@
+D:\LTHSK\Bài Tập Lớn\XemThongTinHocSinh\bin\Debug\XemThongTinHocSinh.exe.config
+D:\LTHSK\Bài Tập Lớn\XemThongTinHocSinh\bin\Debug\XemThongTinHocSinh.exe
+D:\LTHSK\Bài Tập Lớn\XemThongTinHocSinh\bin\Debug\XemThongTinHocSinh.pdb
+D:\LTHSK\Bài Tập Lớn\XemThongTinHocSinh\obj\Debug\XemThongTinHocSinh.csproj.AssemblyReference.cache
+D:\LTHSK\Bài Tập Lớn\XemThongTinHocSinh\obj\Debug\XemThongTinHocSinh.FormXemThongTinHocSinh.resources
+D:\LTHSK\Bài Tập Lớn\XemThongTinHocSinh\obj\Debug\XemThongTinHocSinh.Properties.Resources.resources
+D:\LTHSK\Bài Tập Lớn\XemThongTinHocSinh\obj\Debug\XemThongTinHocSinh.csproj.GenerateResource.cache
+D:\LTHSK\Bài Tập Lớn\XemThongTinHocSinh\obj\Debug\XemThongTinHocSinh.csproj.CoreCompileInputs.cache
+D:\LTHSK\Bài Tập Lớn\XemThongTinHocSinh\obj\Debug\XemThongTinHocSinh.exe
+D:\LTHSK\Bài Tập Lớn\XemThongTinHocSinh\obj\Debug\XemThongTinHocSinh.pdb

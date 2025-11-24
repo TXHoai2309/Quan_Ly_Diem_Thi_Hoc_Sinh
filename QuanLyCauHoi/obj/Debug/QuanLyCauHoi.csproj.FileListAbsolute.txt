@@ -1,0 +1,10 @@
+D:\LTHSK\Bài Tập Lớn\QuanLyCauHoi\bin\Debug\QuanLyCauHoi.exe.config
+D:\LTHSK\Bài Tập Lớn\QuanLyCauHoi\bin\Debug\QuanLyCauHoi.exe
+D:\LTHSK\Bài Tập Lớn\QuanLyCauHoi\bin\Debug\QuanLyCauHoi.pdb
+D:\LTHSK\Bài Tập Lớn\QuanLyCauHoi\obj\Debug\QuanLyCauHoi.csproj.AssemblyReference.cache
+D:\LTHSK\Bài Tập Lớn\QuanLyCauHoi\obj\Debug\QuanLyCauHoi.FormQuanLyCauHoi.resources
+D:\LTHSK\Bài Tập Lớn\QuanLyCauHoi\obj\Debug\QuanLyCauHoi.Properties.Resources.resources
+D:\LTHSK\Bài Tập Lớn\QuanLyCauHoi\obj\Debug\QuanLyCauHoi.csproj.GenerateResource.cache
+D:\LTHSK\Bài Tập Lớn\QuanLyCauHoi\obj\Debug\QuanLyCauHoi.csproj.CoreCompileInputs.cache
+D:\LTHSK\Bài Tập Lớn\QuanLyCauHoi\obj\Debug\QuanLyCauHoi.exe
+D:\LTHSK\Bài Tập Lớn\QuanLyCauHoi\obj\Debug\QuanLyCauHoi.pdb

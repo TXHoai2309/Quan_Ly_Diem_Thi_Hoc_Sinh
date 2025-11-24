@@ -1,0 +1,10 @@
+D:\LTHSK\Bài Tập Lớn\DoiMatKhau\bin\Debug\DoiMatKhau.exe.config
+D:\LTHSK\Bài Tập Lớn\DoiMatKhau\bin\Debug\DoiMatKhau.exe
+D:\LTHSK\Bài Tập Lớn\DoiMatKhau\bin\Debug\DoiMatKhau.pdb
+D:\LTHSK\Bài Tập Lớn\DoiMatKhau\obj\Debug\DoiMatKhau.csproj.AssemblyReference.cache
+D:\LTHSK\Bài Tập Lớn\DoiMatKhau\obj\Debug\DoiMatKhau.FormDoiMatKhau.resources
+D:\LTHSK\Bài Tập Lớn\DoiMatKhau\obj\Debug\DoiMatKhau.Properties.Resources.resources
+D:\LTHSK\Bài Tập Lớn\DoiMatKhau\obj\Debug\DoiMatKhau.csproj.GenerateResource.cache
+D:\LTHSK\Bài Tập Lớn\DoiMatKhau\obj\Debug\DoiMatKhau.csproj.CoreCompileInputs.cache
+D:\LTHSK\Bài Tập Lớn\DoiMatKhau\obj\Debug\DoiMatKhau.exe
+D:\LTHSK\Bài Tập Lớn\DoiMatKhau\obj\Debug\DoiMatKhau.pdb
