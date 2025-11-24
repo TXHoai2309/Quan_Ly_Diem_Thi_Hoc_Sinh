@@ -1,0 +1,51 @@
+## Build folders
+bin/
+obj/
+debug/
+release/
+build/
+logs/
+
+## Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.cache
+*.userosscache
+
+## NuGet
+packages/
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+
+## Backup & temp
+*.bak
+*.tmp
+*.orig
+
+## DotNet core & C#
+project.lock.json
+project.fragment.lock.json
+
+## Crystal Reports cache
+*.rpt.tmp
+*.rpt.mg
+
+## SQL Database
+*.mdf
+*.ldf
+*.ndf
+
+## Logs
+*.log
+logs/
+
+## Rider / IntelliJ
+.idea/
+
+## OS Files
+Thumbs.db
+.DS_Store
